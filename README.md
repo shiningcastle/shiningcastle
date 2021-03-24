@@ -18,7 +18,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-- ㄴㄴ
+- **Languages**
 
 <p align="left">
 <a href="#">
@@ -26,15 +26,43 @@ If you are interested in the contents of my daily study, please visit
 <a href="#">
 <img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>  
+</p>
+
+<br>
+
+- **Back-end**
+
+<p align="left">
 <a href="#">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <br>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
+</p>
+
+<br>
+
+- **Front-end**
+
+<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
+</p>
+
+<br>
+
+- **Data-analysis**
+
+<p align="left">
 <a href="#">
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
+</p>
+
+<br>
+
+- **DB**
+
+<p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 </p>
