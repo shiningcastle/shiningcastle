@@ -5,7 +5,7 @@
 ## 👋🏻 Hi there!
 
 <br>
-I'm Heeseong Kwon, a aspiring developer. 🌱 <br>
+I'm Heeseong Kwon, a aspiring developer. 🔥 <br>
 I majored in applied statistics, 📈 and I'm studying web application development. 🖥 <br><br>
 If you are interested in the contents of my daily study, please visit
 <a href="https://velog.io/@shiningcastle">
