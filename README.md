@@ -18,7 +18,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-#### ㆍ ❶ Languages
+#### ㆍLanguages
 
 <p align="left">
 <a href="#">
@@ -31,7 +31,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-- **Back-end**
+#### ㆍBack-end
 
 <p align="left">
 <a href="#">
@@ -40,7 +40,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-- **Front-end**
+#### ㆍFront-end
 
 <p align="left">
 <a href="#">
@@ -49,7 +49,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-- **Data-analysis**
+#### ㆍData-analysis
 
 <p align="left">
 <a href="#">
@@ -60,7 +60,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-- **DB**
+#### ㆍDB
 
 <p align="left">
 <a href="#">
