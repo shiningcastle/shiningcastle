@@ -30,7 +30,6 @@ If you are interested in the contents of my daily study, please visit
 </p>
 
 
-
 #### ㆍBack-end
 
 <p align="left">
@@ -38,7 +37,6 @@ If you are interested in the contents of my daily study, please visit
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
 </p>
 
-<br>
 
 #### ㆍFront-end
 
@@ -47,7 +45,6 @@ If you are interested in the contents of my daily study, please visit
 <img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 </p>
 
-<br>
 
 #### ㆍData-analysis
 
@@ -58,7 +55,6 @@ If you are interested in the contents of my daily study, please visit
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
 </p>
 
-<br>
 
 #### ㆍDB
 
