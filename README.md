@@ -18,7 +18,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br>
 
-### Languages
+#### ㆍ ❶ Languages
 
 <p align="left">
 <a href="#">
