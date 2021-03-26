@@ -61,6 +61,8 @@ If you are interested in the contents of my daily study, please visit
 <p align="left">
 <a href="#">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a href="#">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 <br>
