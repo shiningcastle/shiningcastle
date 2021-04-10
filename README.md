@@ -74,7 +74,6 @@ If you are interested in the contents of my daily study, please visit
 <a href="mailto:kwon940329@gmail.com">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kwon940329@gmail.com />
 </a>
-
-<a href="https://www.facebook.com/profile.php?id=100009176789375">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="mailto:shiningcastle@naver.com">
+<img src=https://img.shields.io/badge/Naver-EA4335?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:shiningcastle@naver.com />
 </a>
