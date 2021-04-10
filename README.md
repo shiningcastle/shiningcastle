@@ -22,9 +22,9 @@ If you are interested in the contents of my daily study, please visit
 
 <p align="left">
 <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFD43B"/></a> &nbsp;
+<img alt="Python" src="https://img.shields.io/badge/python%20-%FFD43B.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
+<img src="https://img.shields.io/badge/Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 <a href="#">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>  
 </p>
