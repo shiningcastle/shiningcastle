@@ -34,7 +34,7 @@ If you are interested in the contents of my daily study, please visit
 
 <p align="left">
 <a href="#">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a> &nbsp;
 </p>
 
 
@@ -42,7 +42,7 @@ If you are interested in the contents of my daily study, please visit
 
 <p align="left">
 <a href="#">
-<img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
+<img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></a> &nbsp;
 </p>
 
 
@@ -60,7 +60,7 @@ If you are interested in the contents of my daily study, please visit
 
 <p align="left">
 <a href="#">
-<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 </p>
