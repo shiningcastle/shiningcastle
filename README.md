@@ -72,5 +72,5 @@ If you are interested in the contents of my daily study, please visit
 <br>
 
 <a href="mailto:kwon940329@gmail.com">
-<img src=https://img.shields.io/badge/Google-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kwon940329@gmail.com/>
+<img src=https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kwon940329@gmail.com/>
 </a>
