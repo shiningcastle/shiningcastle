@@ -5,7 +5,7 @@
 ## 👋🏻 Hi there!
 
 <br>
-I'm Heeseong Kwon, passionate Junior Backend Developer. 🔥 <br> 
+I'm Heeseong Kwon, passionate Newcomer Backend Developer. 🔥 <br> 
 <br>
 If you are interested in the contents of my daily study, please visit
 <a href="https://velog.io/@shiningcastle">
