@@ -51,9 +51,6 @@ If you are interested in the contents of my daily study, please visit
 <p align="left">
 <a href="#">
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/-ElasticSearch-31A77C?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a> &nbsp;
-</p>
 
 
 #### ㆍDB
