@@ -42,7 +42,7 @@ If you are interested in the contents of my daily study, please visit
 
 <p align="left">
 <a href="#">
-<img src="https://img.shields.io/badge/vue.js-%4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a> &nbsp;
+<img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 </p>
 
 
