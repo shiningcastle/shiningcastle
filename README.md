@@ -62,6 +62,8 @@ If you are interested in the contents of my daily study, please visit
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img alt="Postgres" src="https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a> &nbsp;
 </p>
 
 <br>
