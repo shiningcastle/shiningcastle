@@ -9,7 +9,7 @@ I'm Heeseong Kwon, passionate Newcomer Backend Developer. 🔥 <br>
 <br>
 If you are interested in the contents of my daily study, please visit
 <a href="https://velog.io/@shiningcastle">
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle" />
+<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle"/>
 </a>
 
 <br><br>
